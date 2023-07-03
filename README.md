@@ -1,0 +1,2 @@
+# PracticasBDOracle
+Practicas de oracle
